@@ -1,1 +1,20 @@
-Already up to date.
+git checkout main
+git merge bug-fix-typo-2
+
+Updating 126f259..fc4fc2f
+Fast-forward
+ README.md | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+fc4fc2f Second typo fix
+126f259 Added merge branches output
+694d3b6 Fixed typo
+cf33094 Added forked repo output
+ad95b0a Create close_pr.yml
+13af262 Create feature_request.md
+cd5f237 Create bug_report.md
+cdeb355 Create CODE_OF_CONDUCT.md
+3f7857c Create CONTRIBUTING.md
+2a3b643 Create simple-interest.sh
+f4e5aa3 Create compound_interest.py
+d8324ad Update README.md
+484d879 Initial commit
